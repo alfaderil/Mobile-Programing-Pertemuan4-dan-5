@@ -41,7 +41,7 @@ class _ProfilePageState extends State<ProfilePage> {
                     alignment: Alignment(0.0, 2.5),
                     child: CircleAvatar(
                       backgroundImage: NetworkImage(
-                        'https://media.licdn.com/dms/image/v2/D5603AQEixOd8-95Gnw/profile-displayphoto-scale_400_400/B56ZfFAmp9GoAg-/0/1751356961658?e=1778112000&v=beta&t=3TrwjgDM7DiA-Kw5MjboX7FrDB3LvtgyHsMfhPEvNTg',
+                        'https://media.licdn.com/dms/image/v2/D5603AQEixOd8-95Gnw/profile-displayphoto-crop_800_800/B56ZfFAmp9GoAI-/0/1751356961575?e=1779926400&v=beta&t=E0DP0Knb5IgQub4DFXA5EL1Czyyo-dFO_tUQ0nF3svY',
                       ),
                       radius: 60.0,
                     ),
